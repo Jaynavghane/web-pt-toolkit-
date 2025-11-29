@@ -59,6 +59,16 @@ python main.py
 
 This will launch the GUI window.
 
+--------------------------
+
+### OutPut
+
+<img width="800" height="425" alt="Image" src="https://github.com/user-attachments/assets/03710016-bea6-4e80-976f-afd1ea2b6dc5" />
+
+<img width="800" height="425" alt="Image" src="https://github.com/user-attachments/assets/df3d15a1-60ff-44a7-9fd2-9c9065f6abe7" />
+
+--------------------------------------------------------------------------------------------------------------------------
+
 ### Steps to Encrypt a File
 
 1. Click **"Browse"** to select the file you want to encrypt
