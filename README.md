@@ -1,4 +1,4 @@
-# CODTECH Advanced Encryption Tool (AES-256 GCM)
+#  Advanced Encryption Tool (AES-256 GCM)
 
 A simple and secure desktop application for encrypting and decrypting files using military-grade AES-256 GCM encryption with PBKDF2 key derivation.
 
