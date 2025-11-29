@@ -20,7 +20,7 @@ A simple and secure desktop application for encrypting and decrypting files usin
 ### 1. Clone or Download the Repository
 
 ```bash
-git clone https://github.com/yourusername/crypto-tool.git
+git clone https://github.com/Jaynavghane/crypto-tool.git
 cd crypto-tool
 ```
 
@@ -122,3 +122,13 @@ This project is provided as-is for educational and personal use.
 ## Support
 
 For issues or questions, please refer to the project documentation or contact the maintainers.
+
+--------------------------------------------------------------
+* Company: CODTECH IT SOLUTIONS
+* Name: Jay Navghane
+* Intern ID: COD08111
+* Domain: Cyber security & Ethical Hacking
+* Duration: 6 weeks
+* Mentor: Neela Santosh
+
+
